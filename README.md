@@ -1,9 +1,4 @@
-- We are Daisy Bio.  Our mission is to democratize access to advanced DNA analysis by designing, developing,
-- and distributing low-cost, robust, and open-source DNA analysis instruments. We aim to empower researchers,
-- students, and biologists, particularly those working in resource-limited settings, by providing complete
-- instruments, DIY kits, and freely available design plans. Through our commitment to open-source principles,
-- we seek to foster innovation, collaboration, and accessibility in molecular biology, enabling individuals
-- and organizations worldwide to advance scientific discovery and education.
+- We are Daisy Bio.  Our mission is to democratize access to advanced DNA analysis by designing, developing, and distributing low-cost, robust, and open-source DNA analysis instruments. We aim to empower researchers, students, and biologists, particularly those working in resource-limited settings, by providing complete instruments, DIY kits, and freely available design plans. Through our commitment to open-source principles, we seek to foster innovation, collaboration, and accessibility in molecular biology, enabling individuals and organizations worldwide to advance scientific discovery and education.
 - 
 - contact:
 - Thomas Welsh
